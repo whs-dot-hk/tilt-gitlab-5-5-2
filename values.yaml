@@ -1,0 +1,8 @@
+certmanager:
+  install: false
+
+certmanager-issuer:
+  email: hswongac@gmail.com
+
+global:
+  edition: ce
